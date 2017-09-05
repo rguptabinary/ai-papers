@@ -1,0 +1,2 @@
+## Supervised learning
+Supervised ml is the search for algorithms which can reason from externally supplied instances and can produce a genral hypothesis which then make predictions about the future unlabeled instances. Aim is to make a concice model of the distribution of the class labels in terms of predictor features. The resulting classifier is then use to label the instances for which predictor features are known but labels are unknown. Instances used in ml algos should be represented by same set of features.
